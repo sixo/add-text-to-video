@@ -1,4 +1,4 @@
-# Converting Video to Greyscale
+# Adding Text to Video
 
 Shows how to add a text overlay to existing video using Android's native APIs. 
 
